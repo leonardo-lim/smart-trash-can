@@ -15,8 +15,8 @@ This IoT-based website application project develops smart trash can that can det
 7. Open `main.cpp` file with your Arduino application
 8. Add all network information (SSID, password, host, IP address, local IP, gateway, subnet, primary DNS, and secondary DNS) based on your network connection
 9. After the configuration is complete, upload the script into NodeMCU
-9. Open http://localhost/smart-trash-can on your browser
-10. Done, you can see the result updated in real time
+10. Open http://localhost/smart-trash-can on your browser
+11. Done, you can see the result updated in real time
 
 ## Components
 * NodeMCU
@@ -31,6 +31,7 @@ This IoT-based website application project develops smart trash can that can det
 * Real Time Result Update on Website
 
 ## Technology
+* C++
 * PHP
 * JavaScript
 * HTML
